@@ -1,4 +1,4 @@
-<p align="center"><img src="https://drive.google.com/file/d/1JT9Yj1R3J79_New-EnhFdSadvmW-Hih5/preview" width="400"></p>
+<p align="center"><img src="public/images/icons/LC.png" width="400"></p>
 
 <p align="center">
 <a href="https://kltech-intl.odoo.com"><img src="https://img.shields.io/badge/Master-Success-success" alt="Build Status"></a>
